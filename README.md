@@ -1,5 +1,5 @@
 # Projeto-Landing-Page
-Este é o projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
+Este é o projeto de desenvolvimento de uma página landing page.
 
 
 Link do site disponibilizado: https://teste-ladingpagednc.netlify.app/
